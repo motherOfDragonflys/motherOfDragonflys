@@ -73,8 +73,10 @@
 - Проведено тестирование по составленной документации и оформлены баг‑репорты
 
 ### [Мобильное приложение ЯМетро (фича + регресс особенностей)]  
-[Google Sheets](https://docs.google.com/spreadsheets/d/1kEIImN4ly2LkltAVgWvFSs6HRjRfgj2g8WbCm9kxG4U/edit?gid=1165888362#gid=1165888362) 
-[GitHub](https://github.com/motherOfDragonflys/yametro-manual-testing)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1kEIImN4ly2LkltAVgWvFSs6HRjRfgj2g8WbCm9kxG4U/edit?gid=1165888362#gid=1165888362)  
+
+[GitHub](https://github.com/motherOfDragonflys/yametro-manual-testing)  
+
 Составление документации и тестирование по ней новой функциональности, а также проектирование документации и проведение регресс‑тестирования по особенностям мобильного приложения  
 Роль — ручной тестировщик  
 Проделанная работа:
