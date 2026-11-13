@@ -53,7 +53,7 @@
 ## Проекты ручного тестирования
 
 ### [Тест‑дизайн] Демонстрационный проект техник тест‑дизайна  
-[GoogleDocs](https://docs.google.com/spreadsheets/d/1N9XMTMpapyrw0rBIho9CnJjvKPhrTc2lVRB_0W4wgrA/edit?gid=0#gid=0)  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1N9XMTMpapyrw0rBIho9CnJjvKPhrTc2lVRB_0W4wgrA/edit?gid=0#gid=0)  
 Роль — ручной тестировщик  
 Применяемые техники:
 - Разбиение на классы эквивалентности и граничные значения для поля ввода серийного номера со сложной логикой последовательности
@@ -63,7 +63,7 @@
 - Дерево решений для декомпозиции логики бизнес‑процесса бронирования комнаты
 
 ### [ЯМаршруты (свой автомобиль)]  
-[GoogleDocs](https://docs.google.com/spreadsheets/d/1vJrl1nrgt5S5qXMDpz8wvPdOAMvr5Pt3-6KoPyf1wpU/edit?gid=1610041137#gid=1610041137)  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1vJrl1nrgt5S5qXMDpz8wvPdOAMvr5Pt3-6KoPyf1wpU/edit?gid=1610041137#gid=1610041137)  
 Составление документации на валидацию полей и логику расчета стоимости поездки на своем автомобиле  
 Роль — ручной тестировщик  
 Проделанная работа:
@@ -73,7 +73,8 @@
 - Проведено тестирование по составленной документации и оформлены баг‑репорты
 
 ### [Мобильное приложение ЯМетро (фича + регресс особенностей)]  
-[GoogleDocs](https://docs.google.com/spreadsheets/d/1kEIImN4ly2LkltAVgWvFSs6HRjRfgj2g8WbCm9kxG4U/edit?gid=1165888362#gid=1165888362)  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1kEIImN4ly2LkltAVgWvFSs6HRjRfgj2g8WbCm9kxG4U/edit?gid=1165888362#gid=1165888362) 
+[GitHub](https://github.com/motherOfDragonflys/yametro-manual-testing)
 Составление документации и тестирование по ней новой функциональности, а также проектирование документации и проведение регресс‑тестирования по особенностям мобильного приложения  
 Роль — ручной тестировщик  
 Проделанная работа:
